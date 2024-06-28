@@ -11,7 +11,7 @@ SECRET_KEY = 'your-secret-key-here'  # Replace with a secure secret key
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['203.161.57.44']
 
 # Application definition
 
